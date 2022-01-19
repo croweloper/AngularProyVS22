@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95544871-45d7-4e22-a866-4e802377da73": {
+      "ProjectGuid": "95544871-45d7-4e22-a866-4e802377da73",
+      "DisplayName": "AngularProyVS22",
+      "ColorIndex": 0
+    },
+    "831abb0f-679d-41f3-abcc-cbda90213771": {
+      "ProjectGuid": "831abb0f-679d-41f3-abcc-cbda90213771",
+      "DisplayName": "ApiNETCORE",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
